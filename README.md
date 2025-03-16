@@ -40,7 +40,7 @@ This **advanced Personal Voice Assistant** integrates **Text-to-Speech (TTS) and
 
 1️⃣ **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/Personal-Voice-Assistant.git
+   git clone https://github.com/madhupashish/Personal-Voice-Assistant.git
    cd Personal-Voice-Assistant
    ```  
 2️⃣ **Create & activate a virtual environment:**  
